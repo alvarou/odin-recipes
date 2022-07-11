@@ -1,0 +1,17 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  springgreen;}
+
+*   {
+    font-family: Arial, Helvetica, sans-serif;
+    color:  darkgrey;
+  
+}	
+img {
+    width: 200px;
+    height: auto;
+}
